@@ -1,0 +1,26 @@
+.btn{
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: 600;
+    border: 1px solid #83BA63;
+    font-size: 1em;
+    cursor: pointer;
+    background: white;
+}
+.fill{
+    background: #83BA63;
+    color: #E5E5E5;
+}
+.outline{
+    background: #E5E5E5;
+    color: #83BA63;
+}
+.icon{
+    border-color: white;
+    fill: #71809F;
+
+}
+.icon svg{
+    width: 20px;
+    height: 20px;
+}

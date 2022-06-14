@@ -1,0 +1,21 @@
+.modal{
+    position: absolute;
+    background-color: white;
+    width: 70%;
+    height: 60vh;
+    margin: 20vh 15%;
+    box-shadow:0px 4px 34px rgba(0, 0, 0, 0.24) ;
+    -webkit-box-shadow: 0px 4px 34px rgba(0, 0, 0, 0.24); 
+    box-shadow: 0 4px 19px 1px rgba(0, 0, 0, 0.67);
+    padding: 40px;
+
+}
+.btnClose{
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+.container{
+    overflow: hidden;
+    height: 100%;
+}

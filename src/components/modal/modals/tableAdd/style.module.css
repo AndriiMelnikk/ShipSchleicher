@@ -1,0 +1,33 @@
+.tableModal {
+    position: relative;
+    width: 300%;
+    height: 100%;
+}
+.tableModal > div {
+    position: relative;
+    height: 100%;
+    width: 33.33%;
+    display: inline-block;
+    vertical-align: top;
+}
+.tableModal .buttons {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.tableModal  .buttons button{
+    margin: 0 10px;
+}
+.tableModal h2{
+    font-size: 2.5em;
+}
+.tableModal form {
+    margin-top: 50px;
+}
+
+.columnInput{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    align-items: center;
+    margin: 5px 0;
+}
